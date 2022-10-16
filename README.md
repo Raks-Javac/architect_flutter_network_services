@@ -1,3 +1,3 @@
 
 
-a flutter project demonstrating a couple of tips on how to make a layer by feature project the right way
+a flutter project demonstrates project stucture which helps in medium to large apps
